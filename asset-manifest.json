@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dice-simulation-app/static/css/main.e6c13ad2.css",
+    "main.js": "/dice-simulation-app/static/js/main.8fd86985.js",
+    "static/js/453.44c97e78.chunk.js": "/dice-simulation-app/static/js/453.44c97e78.chunk.js",
+    "index.html": "/dice-simulation-app/index.html",
+    "main.e6c13ad2.css.map": "/dice-simulation-app/static/css/main.e6c13ad2.css.map",
+    "main.8fd86985.js.map": "/dice-simulation-app/static/js/main.8fd86985.js.map",
+    "453.44c97e78.chunk.js.map": "/dice-simulation-app/static/js/453.44c97e78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8fd86985.js"
+  ]
+}
